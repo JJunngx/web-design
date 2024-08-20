@@ -1,0 +1,15 @@
+@media (max-width: 992px) {
+  .nav-bar .nav1 {
+    margin-right: 20px;
+  }
+  .nav-bar .nav3 {
+    margin-left: 20px;
+  }
+  /* project 7  */
+  .container table {
+    height: 400px;
+  }
+  .container .das {
+    height: 430px;
+  }
+}
